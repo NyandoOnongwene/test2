@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0a0c40d7-ece7-443a-8531-41d763d4df62" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Craps.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="0a0c40d7-ece7-443a-8531-41d763d4df62" name="Changes" comment="commit craps" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -50,6 +47,19 @@
       <option name="presentableId" value="Default" />
       <updated>1714654451862</updated>
     </task>
+    <task id="LOCAL-00001" summary="commit craps">
+      <option name="closed" value="true" />
+      <created>1714772076258</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1714772076258</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="commit craps" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit craps" />
   </component>
 </project>
